@@ -61,6 +61,5 @@ You can check out all my projects here: [All My Projects](https://github.com/Eng
 
 ## 📫 How to Reach Me
 - **Email**: [mbqasem7@gmail.com](mailto:mbqasem7@gmail.com)
-- **Facebook**: [Mays Qasem](https://www.facebook.com/mays.qasem.5?locale=ar_AR)
-- **Instagram**: [@maysqasem](https://www.instagram.com/maysqasem/?hl=ar)
+- **Linkedin**: [Mays Qasem]([https://www.instagram.com/maysqasem/?hl=ar](https://www.linkedin.com/in/mays-qasem-33a3b4239/))
 - **LeetCode**: [Mays Qasem](https://leetcode.com/u/MaysQasem/)
