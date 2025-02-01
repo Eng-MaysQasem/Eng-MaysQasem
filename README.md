@@ -58,8 +58,7 @@ You can check out all my projects here: [All My Projects](https://github.com/Eng
   You can check the project here: [Write and Shine GitHub](https://github.com/Mohamad-Jamal-J/write-and-shine-gsg-mrdt)
 
 - Collaborated in creating a platform that helps users create and share content effectively.
-
-## 📫 How to Reach Me
-- **Email**: [mbqasem7@gmail.com](mailto:mbqasem7@gmail.com)
-- **Linkedin**: [Mays Qasem]([https://www.instagram.com/maysqasem/?hl=ar](https://www.linkedin.com/in/mays-qasem-33a3b4239/))
-- **LeetCode**: [Mays Qasem](https://leetcode.com/u/MaysQasem/)
+## 📫 How to Reach Me  
+- **Email**: [mbqasem7@gmail.com](mailto:mbqasem7@gmail.com)  
+- **LinkedIn**: [Mays Qasem](https://www.linkedin.com/in/mays-qasem-33a3b4239/)  
+- **LeetCode**: [Mays Qasem](https://leetcode.com/u/MaysQasem/)  
